@@ -1,0 +1,45 @@
+nav {
+
+    margin-left: 900px;    
+}
+
+.col-md-2 {
+    
+    margin-left: 850px;
+    margin-top: 10px;
+    border: 1px solid rgb(202, 198, 198);
+    padding-left: 15%;
+    padding-top: 1%;
+    width: 400px;
+    border-radius: 5px;
+
+
+}
+
+
+.needHelp {  
+    margin: 0.75em 0;  
+    padding: 0 1em;  
+    list-style: none;  
+}  
+.needsHelp:before {   
+    content: "";  
+    border-color: transparent gray;  
+    border-style: solid;  
+    border-width: 0.30em 0 0.30em 0.40em;  
+    display: block;  
+    height: 0;  
+    width: 0;  
+    left: -1em;  
+    top: 1em;  
+    position: relative;  
+    margin-left: -1em;
+} 
+
+.col {
+    margin-left: 850px;
+    margin-top: 100PX;
+}
+footer {
+    margin: 10px;
+}
